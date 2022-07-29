@@ -1,0 +1,20 @@
+.mainCont{
+    background-color: #13172b;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    height: 720px
+}
+
+.trending{
+    padding-top: 300px;
+    display: flex;
+    gap: 15px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    color: #ECF0FF;;
+    font-weight: 600;
+    font-size: 16px;
+}

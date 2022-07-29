@@ -1,0 +1,71 @@
+.mainCont{
+    margin-top: 300px;
+}
+
+.card{
+    color: white;
+    width: 290px;
+    height: 350px;
+    margin-top: -50px;
+}
+
+.content{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.highlight{
+    background-color: #14172B;
+    border-radius: 17px;
+    width: 90%;
+    justify-content: center;
+    padding: 10px
+}
+
+.prices{
+    width: 242px;
+    height: 30px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.change{
+    color:#00FFA3;
+    margin-left: 10px;
+}
+
+.changeNegative{
+    color: #FF4D4D;
+    opacity: 0.9;
+    margin-left: 10px;
+}
+
+.imgCont{
+    margin-left: 95px;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
+.imgCont img{
+    margin-left: -95px;
+    margin-top: 25px
+}
+
+.headers{
+    color: #737BAE;
+    font-size: 12px;
+    margin: 10px 0px
+}
+
+.popularPairs{
+    background: #14172B;
+    border-radius: 29.5px;
+    margin: 0px 85px;
+    height: 30px;
+    padding-top: 10px 
+}
+
+.popularPairs img{
+    width: 20px;
+    margin-right: 10px;
+}
